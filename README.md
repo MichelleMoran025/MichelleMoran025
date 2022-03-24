@@ -22,11 +22,11 @@ Los más conocidos son:
 
 •	POST: agrega un nuevo recurso
 
-•	PUT: modificar algún recurso existente
+•	PUT: modifica algún recurso existente
 
 •	PATCH: actualiza los elementos de algún recurso
 
-•	DELETE: eliminar un recurso en especifíco
+•	DELETE: elimina un recurso en especifíco
 
 3. ¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers? 
 
