@@ -2,7 +2,7 @@ Ejercicio 2
 
 Las siguientes preguntas están orientadas a la comprensión del protocolo HTTP. Son diagnósticas al lenguaje de programación, la idea es comprender los conceptos del estándar:
 
-1.¿Qué es un servidor HTTP? 
+1. ¿Qué es un servidor HTTP? 
 
 Es un software que por medio del protocolo HTTP se encarga de realizar peticiones de los clientes (conexión cliente/servidor). 
 
@@ -12,7 +12,7 @@ Estas peticiones pueden ser:
 
 •	Mostrar contenido de la Web
 
-2.¿Qué son los verbos HTTP? Mencionar los más conocidos
+2. ¿Qué son los verbos HTTP? Mencionar los más conocidos
 
 Se encargan de indicar que acciones se requieren hacer sobre el servidor. 
 
@@ -28,7 +28,7 @@ Los más conocidos son:
 
 •	DELETE: eliminar un recurso en especifíco
 
-3.¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers? 
+3. ¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers? 
 
 •	Request (petición): es el requierimiento por parte de un cliente al servidor solicitando algún recurso, este se puede hacer por medio del método GET.
 
@@ -52,7 +52,7 @@ Es un código de respuesta que proporciona información de estado sobre la solic
 
 #(500): son los valores de respuesta de error por parte del servidor.
 
-6.¿Cómo se envía la data en un GET y cómo en un POST? 
+6. ¿Cómo se envía la data en un GET y cómo en un POST? 
 
 • En un  GET la data se lleva acabo en por medio de una URL, dónde los datos son visibles por el usuario.
 
@@ -62,7 +62,7 @@ Es un código de respuesta que proporciona información de estado sobre la solic
 
 • GET: consulta
 
-10.Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
+8. Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
 
 Estructuras de datos JSON:
 
@@ -72,15 +72,15 @@ Existen dos estructuras de datos en JSON:
 
 • Una lista ordenada de valores los cúales son: arreglos, vectores, listas o sequencias.
 
-11.Explicar brevemente el estándar SOAP
+9. Explicar brevemente el estándar SOAP
 
 Es un protocolo escrito en XLM  que sirve para el intercambio de información entre aplicaciones está diseñado para la comunicación con el protocolo HTML.  
 
-12.Explicar brevemente el estándar REST Full
+10. Explicar brevemente el estándar REST Full
 
 Es un conjutno de restricciones y prinipios de la arquitectura REST. Usa caracteristicas y capacidades  existentes de la Web. Se apoya sobre un protocolo HTTP.
 
-13.¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
+11. ¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
 
 • Los HTTP headers son la parte central de los HTTP requests y responses. Tansmiten información acerca del navegador del cliente, de la página solicitada, del servidor, étc.
 
