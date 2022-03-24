@@ -84,7 +84,7 @@ Es un conjutno de restricciones y prinipios de la arquitectura REST. Usa caracte
 
 • Los HTTP headers son la parte central de los HTTP requests y responses. Tansmiten información acerca del navegador del cliente, de la página solicitada, del servidor, étc.
 
-• El key content-type en un header dice al cliente que tipo de contenido será retornado
+• El key content-type en un header dice al cliente que tipo de contenido será retornado.
 
 
 
