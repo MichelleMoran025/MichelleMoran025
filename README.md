@@ -56,6 +56,7 @@ Es un código de respuesta que proporciona información de estado sobre la solic
 
 
 
+
 8.	¿Qué verbo http utiliza el navegador cuando accedemos a una página?
 9.	Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
 10.	Explicar brevemente el estándar SOAP
