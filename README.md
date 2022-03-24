@@ -15,27 +15,46 @@ Estas peticiones pueden ser:
 2.¿Qué son los verbos HTTP? Mencionar los más conocidos
 
 Se encargan de indicar que acciones se requieren hacer sobre el servidor. 
+
 Los más conocidos son:
+
 •	GET: consulta
+
 •	POST: agrega un nuevo recurso
+
 •	PUT: modificar algún recurso existente
+
 •	PATCH: actualiza los elementos de algún recurso
+
 •	DELETE: eliminar un recurso en especifíco
 
 3.¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers? 
 
 •	Request (petición): es el requierimiento por parte de un cliente al servidor solicitando algún recurso, este se puede hacer por medio del método GET.
-•	Response (respuesta): es el mensaje de respuesta del servidor al cliente dado un request 
 
+•	Response (respuesta): es el mensaje de respuesta del servidor al cliente dado un request con anterioridad.
 
+•	Headers: 
 
 4.	¿Qué es un queryString? (En el contexto de una url)
+
+Es una cadena de consulta que hace referencia a la interacción en una Base de Datos.
+	
 5.	¿Qué es el responseCode? ¿Qué significado tiene los posibles valores devueltos?
-6.	¿Cómo se envía la data en un Get y cómo en un POST? 
-7.	¿Qué verbo http utiliza el navegador cuando accedemos a una página?
-8.	Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
-9.	Explicar brevemente el estándar SOAP
-10.	Explicar brevemente el estándar REST Full
-11.	¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
+
+Es un código de respuesta que proporciona información de estado sobre la solicitud.
+
+#(200): son los valores de respuesta que han sido satisfactorias.
+
+#(300): son los valores de respuesta que han sido redireccionados.
+
+#(400): son los valores de respuesta que ha sido incorrecta.
+
+7.	¿Cómo se envía la data en un Get y cómo en un POST? 
+8.	¿Qué verbo http utiliza el navegador cuando accedemos a una página?
+9.	Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
+10.	Explicar brevemente el estándar SOAP
+11.	Explicar brevemente el estándar REST Full
+12.	¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
 
  
