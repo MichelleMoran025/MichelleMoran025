@@ -50,7 +50,12 @@ Es un código de respuesta que proporciona información de estado sobre la solic
 
 #(400): son los valores de respuesta que ha sido incorrecta.
 
-7.	¿Cómo se envía la data en un Get y cómo en un POST? 
+#(500): son los valores de respuesta de error por parte del servidor.
+
+6.¿Cómo se envía la data en un Get y cómo en un POST? 
+
+
+
 8.	¿Qué verbo http utiliza el navegador cuando accedemos a una página?
 9.	Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
 10.	Explicar brevemente el estándar SOAP
