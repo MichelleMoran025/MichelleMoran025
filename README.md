@@ -34,7 +34,7 @@ Los más conocidos son:
 
 •	Response (respuesta): es el mensaje de respuesta del servidor al cliente dado un request con anterioridad.
 
-•	Headers: 
+•	Headers: son esquemas de key:value que contienen información sobre el HTTP request y el navegador. Aquí también se encuentran los datos de las cookies. La mayoría de los headers son opcionales.
 
 4.	¿Qué es un queryString? (En el contexto de una url)
 
@@ -52,15 +52,41 @@ Es un código de respuesta que proporciona información de estado sobre la solic
 
 #(500): son los valores de respuesta de error por parte del servidor.
 
-6.¿Cómo se envía la data en un Get y cómo en un POST? 
+6.¿Cómo se envía la data en un GET y cómo en un POST? 
+
+• En un  GET la data se lleva acabo en por medio de una URL, dónde los datos son visibles por el usuario.
+
+• En un  POST la data se lleva acabo por medio de un formulario, cabe mencionar que los datos no son visibles al usuario.
+
+7. ¿Qué verbo http utiliza el navegador cuando accedemos a una página?
+
+• GET: consulta
+
+10.Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
+
+Estructuras de datos JSON:
+
+Existen dos estructuras de datos en JSON:
+
+• Una es una colección de datos nombres/valores (objeto) los cúales son: registro, estructura, diccionario, tabla hash, lista de claves o un arreglo asociativo  
+
+• Una lista ordenada de valores los cúales son: arreglos, vectores, listas o sequencias.
+
+11.Explicar brevemente el estándar SOAP
+
+Es un protocolo escrito en XLM  que sirve para el intercambio de información entre aplicaciones está diseñado para la comunicación con el protocolo HTML.  
+
+12.Explicar brevemente el estándar REST Full
+
+Es un conjutno de restricciones y prinipios de la arquitectura REST. Usa caracteristicas y capacidades  existentes de la Web. Se apoya sobre un protocolo HTTP.
+
+13.¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
+
+• Los HTTP headers son la parte central de los HTTP requests y responses. Tansmiten información acerca del navegador del cliente, de la página solicitada, del servidor, étc.
+
+• El key content-type en un header dice al cliente que tipo de contenido será retornado
 
 
 
-
-8.	¿Qué verbo http utiliza el navegador cuando accedemos a una página?
-9.	Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
-10.	Explicar brevemente el estándar SOAP
-11.	Explicar brevemente el estándar REST Full
-12.	¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
 
  
