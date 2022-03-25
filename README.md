@@ -171,7 +171,7 @@ M.	¿Qué es un ERP?
 N.	¿Salesforce es un ERP?
 
 
-	| Syntax | Description |
+| Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
