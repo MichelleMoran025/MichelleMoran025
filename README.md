@@ -4,7 +4,7 @@ Las siguientes preguntas están orientadas a la comprensión del protocolo HTTP.
 
 1. ¿Qué es un servidor HTTP? 
 
-Es un software que por medio del protocolo HTTP se encarga de realizar peticiones de los clientes (conexión cliente/servidor). 
+> Es un software que por medio del protocolo HTTP se encarga de realizar peticiones de los clientes (conexión cliente/servidor). 
 
 Estas peticiones pueden ser:
 
