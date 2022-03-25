@@ -89,4 +89,75 @@ Es un conjutno de restricciones y prinipios de la arquitectura REST. Usa caracte
 
 
 
+EJERCICIO 6
+
+Responder las siguientes preguntas brevemente sobre:
+
+Soluciones de Salesforce
+
+A. ¿Qué es Salesforce?
+
+Salesforce es una plataforma de gestión de las relaciones con los clientes (CRM) basada en la nube que proporciona a todos los departamentos de su organización, incluidos los de marketing, ventas, servicio al cliente y comercio electrónico, una visión unificada de sus clientes en una plataforma integrada.
+
+B. ¿Qué es Sales Cloud?
+
+Sales Cloud es un software de ventas y CRM que reúne la mayor parte de las funcionalidades encontradas en las demás plataformas. La gran ventaja de elegirlo es que, con nuestro CRM de ventas, podrás aprovechar todos los recursos de automatización que necesitas en una única plataforma.
+
+C. ¿Qué es Service Cloud?
+
+Sales Cloud es un software de ventas y CRM que reúne la mayor parte de las funcionalidades encontradas en las demás plataformas. La gran ventaja de elegirlo es que, con nuestro CRM de ventas, podrás aprovechar todos los recursos de automatización que necesitas en una única plataforma.
+
+D. ¿Qué es Health Cloud?
+
+Health Cloud permite una conversación personalizada entre el paciente y las entidades sanitarias asociadas. No solo es beneficioso para los equipos de atención médica, sino que también beneficia a los pacientes al establecer comunicaciones digitales con su equipo de atención.
+
+E. ¿Qué es Marketing Cloud?
+
+Marketing Cloud es una plataforma de Salesforce que las pymes y grandes empresas pueden utilizar para invertir en estrategias de email marketing de nivel profesional. Las pequeñas empresas, por ejemplo, pueden conquistar nuevos clientes y asegurarse la lealtad de sus clientes actuales sin necesidad de aumentar el número de empleados para lograr esos resultados. Utiliza el software de marketing para planificar, personalizar y optimizar el recorrido de tus clientes, conociéndolos cada vez mejor, midiendo los resultados y sacándole el máximo provecho a tu presupuesto de marketing.
+
+Funcionalidades de Salesforce
+
+A. ¿Qué es un RecordType?
+
+Los Record Types en Salesforce nos permiten definir diferentes Business Process, Pages Layouts y Picklist Values en un determinado objeto. Así mismo, los Record Types nos ayudan a mostrar distintos tipos de información según el perfil del usuario.
+
+Un Record Type se puede utilizar cuando un objeto en Salesforce es usado para multiples propósitos, y debe mostrar diferente información en su respectivo Page Layout.
+
+Los Record Types pueden ser creados para todos los objetos en Salesforce. Sin embargo, en algunos objetos, primero debemos crear un Business Process y luego su respectivo Record type. Estos objetos son: Lead, Opportunity, Case y Solution.
+
+B. ¿Qué es un ReportType?
+C. ¿Qué es un Page Layout?
+D. ¿Qué es un Compact Layout?
+E. ¿Qué es un Perfil?
+F. ¿Qué es un Rol?
+G. ¿Qué es un Validation Rule?
+H. ¿Qué diferencia hay entre una relación Master Detail y Lookup?
+I. ¿Qué es un Sandbox?
+J. ¿Qué es un ChangeSet?
+K. ¿Para qué sirve el import Wizard de Salesforce?
+L. ¿Para qué sirve la funcionalidad Web to Lead?
+M. ¿Para qué sirve la funcionalidad Web to Case?
+N. ¿Para qué sirve la funcionalidad Omnichannel?
+O. ¿Para qué sirve la funcionalidad Chatter?
+
+
+Conceptos generales
+
+A.	¿Qué significa SaaS?
+B.	¿Salesforce es Saas?
+C.	¿Qué significa que una solución sea Cloud?
+D.	¿Qué significa que una solución sea On-Premise?
+E.	¿Qué es un pipeline de ventas?
+F.	¿Qué es un funnel de ventas?
+G.	¿Qué significa Customer Experience?
+H.	¿Qué significa omnicanalidad?
+I.	¿Qué significa que un negocio sea B2B?¿Qué significa que un negocio sea B2C?¿Qué es un KPI?
+J.	¿Qué es una API y en qué se diferencia de una Rest API?
+K.	¿Qué es un Proceso Batch?
+L.	¿Qué es Kanban?
+M.	¿Qué es un ERP? 
+N.	¿Salesforce es un ERP?
+
+
+
  
