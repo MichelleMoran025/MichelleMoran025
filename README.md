@@ -126,9 +126,21 @@ Un Record Type se puede utilizar cuando un objeto en Salesforce es usado para mu
 Los Record Types pueden ser creados para todos los objetos en Salesforce. Sin embargo, en algunos objetos, primero debemos crear un Business Process y luego su respectivo Record type. Estos objetos son: Lead, Opportunity, Case y Solution.
 
 B. ¿Qué es un ReportType?
+
+Es un tipo de informe basado en las relaciones entre un objeto principal y sus objetos relacionados. Los informes muestran solo los registros que cumplen los criterios definidos en el tipo de informe. 
+
 C. ¿Qué es un Page Layout?
+
+Controlan el diseño y la organización de botones, campos, s-controls, Visualforce, enlaces personalizados y listas relacionadas en páginas de registros de objetos.
+
 D. ¿Qué es un Compact Layout?
+
+Muestra los campos clave de un registro de un vistazo en la aplicación móvil Salesforce, Lightning Experience y en las integraciones de Outlook y Gmail.
+
 E. ¿Qué es un Perfil?
+
+
+
 F. ¿Qué es un Rol?
 G. ¿Qué es un Validation Rule?
 H. ¿Qué diferencia hay entre una relación Master Detail y Lookup?
