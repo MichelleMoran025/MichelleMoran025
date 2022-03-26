@@ -87,6 +87,71 @@ Es un conjutno de restricciones y prinipios de la arquitectura REST. Usa caracte
 • El key content-type en un header dice al cliente que tipo de contenido será retornado.
 
 
+EJERCICIO 3
+Recomendamos previamente entender los conceptos de la sintaxis “json” antes de arrancar con los ejercicios.
+Descargar el POSTMAN (aplicación para realizar request como cliente), adjuntando un screen de resolución para cada ítem:
+
+1.	Realizar un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
+2.	Realizar un request POST a la URL anterior, y con body:
+{
+"name":"Tu nombre",
+"email":tunombre.tuapellido@procontacto.com.mx
+}
+Tip: (Marcar la opción “raw” como body)
+3.	Realizar nuevamente un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
+¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
+
+
+
+EJERCICIO 4
+Solicitar usuario de Trailhead a ariel.tarsitano@procontacto.com.mx
+Cambiar el idioma de Trailhead a inglés.
+Realizar los siguientes módulos de Trailhead:
+
+●	Fundamento de la plataforma Salesforce
+●	Fundamentos de Apex y .NET
+●	Modelado de datos
+●	Fundamentos y base de datos de Apex
+●	Desencadenadores de Apex
+●	Apex Integration Services
+
+Se recomienda usar el mismo Playground para todos los módulos solicitados. Excepto que se solicite crear uno nuevo en el enunciado del Módulo.
+Para revisar la resolución de los módulos, compartir la URL del perfil público de Trailhead en una liga dentro del Readme.
+
+
+
+EJERCICIO 5
+Explicar que son conceptualmente, qué datos almacenan en forma estándar y cómo se relacionan el resto (algunos no se relacionan entre sí) cada uno de los siguientes objetos de Salesforce:
+
+1.	Lead
+2.	Account
+3.	Contact
+4.	Opportunity
+5.	Product
+6.	PriceBook
+7.	Quote
+8.	Asset
+9.	Case
+10.	Article
+
+Los campos enumerarlos a través de una lista de texto en el Readme y las relaciones a través de un diagrama UML simple realizado con Drawio.
+Ejemplo de diagrama
+Drawio: https://app.diagrams.net/
+
+Que una cuenta tiene muchos contactos se representa de la siguiente manera:
+
+ 
+
+Completar el resto de las relaciones agregando el resto de los objetos enumerados.
+
+Exportar el diagrama de Drawio, subirlo al repositorio y agregarlo dentro del readme con la etiqueta para linkear imágenes.
+
+Se puede usar el schema builder de salesforce para entender las relaciones.
+
+https://trailhead.salesforce.com/content/learn/modules/data_modeling/schema_builder
+
+ 
+
 
 
 EJERCICIO 6
@@ -247,4 +312,6 @@ Abreviatura de Enterprise Resource Planning, ERP se traduce como un sistema de g
 N. ¿Salesforce es un ERP?
 
 Salesforce es una solución de gestión de relaciones con clientes que une empresas y clientes. Es una plataforma CRM integrada que brinda a todos tus departamentos, incluidos marketing, ventas, comercio y servicios, una vista única y compartida de cada cliente.
+
+
 
