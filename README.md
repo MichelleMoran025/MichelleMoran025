@@ -16,7 +16,7 @@ El presente ejercicio busca realizar la instalación del ambiente para el desarr
 
 Las siguientes preguntas están orientadas a la comprensión del protocolo HTTP. Son diagnósticas al lenguaje de programación, la idea es comprender los conceptos del estándar:
 
-1. ¿Qué es un servidor HTTP? 
+**1. ¿Qué es un servidor HTTP?**
 
 > Es un software que por medio del protocolo HTTP se encarga de realizar peticiones de los clientes (conexión cliente/servidor). 
 
@@ -26,23 +26,23 @@ Estas peticiones pueden ser:
 
 - Mostrar contenido de la Web
 
-2. ¿Qué son los verbos HTTP? Mencionar los más conocidos
+**2. ¿Qué son los verbos HTTP? Mencionar los más conocidos
 
 Se encargan de indicar que acciones se requieren hacer sobre el servidor. 
 
 Los más conocidos son:
 
-•	GET: consulta
+- GET: consulta
 
-•	POST: agrega un nuevo recurso
+- POST: agrega un nuevo recurso
 
-•	PUT: modifica algún recurso existente
+- PUT: modifica algún recurso existente
 
-•	PATCH: actualiza los elementos de algún recurso
+- PATCH: actualiza los elementos de algún recurso
 
-•	DELETE: elimina un recurso en especifíco
+- DELETE: elimina un recurso en especifíco
 
-3. ¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers? 
+**3. ¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers? 
 
 •	Request (petición): es el requierimiento por parte de un cliente al servidor solicitando algún recurso, este se puede hacer por medio del método GET.
 
