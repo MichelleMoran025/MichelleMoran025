@@ -124,12 +124,12 @@ Tip: (Marcar la opción “raw” como body)
 Cambiar el idioma de Trailhead a inglés.
 Realizar los siguientes módulos de Trailhead:
 
-●	Fundamento de la plataforma Salesforce
-●	Fundamentos de Apex y .NET
-●	Modelado de datos
-●	Fundamentos y base de datos de Apex
-●	Desencadenadores de Apex
-●	Apex Integration Services
+- Fundamento de la plataforma Salesforce
+- Fundamentos de Apex y .NET
+- Modelado de datos
+- Fundamentos y base de datos de Apex
+- Desencadenadores de Apex
+- Apex Integration Services
 
 Se recomienda usar el mismo Playground para todos los módulos solicitados. Excepto que se solicite crear uno nuevo en el enunciado del Módulo.
 Para revisar la resolución de los módulos, compartir la URL del perfil público de Trailhead en una liga dentro del Readme.
