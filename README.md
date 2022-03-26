@@ -1,10 +1,10 @@
 # EVALUACIÓN PRÁCTICA
 
-Se deberán entregar las resoluciones en un archivo Readme.md de un repositorio de github publico. Aquí un instructivo de como hacer uno. Se valorará muchísimo el nivel de presentación teniendo en cuenta en cuenta la redacción, faltas de ortografía, uso de tabulación, tamaños de fuentes y diversas herramientas que entrega el readme para hacer más fácil su comprensión. 
+>  Se deberán entregar las resoluciones en un archivo Readme.md de un repositorio de github publico. Aquí un instructivo de como hacer uno. Se valorará muchísimo el nivel de presentación teniendo en cuenta en cuenta la redacción, faltas de ortografía, uso de tabulación, tamaños de fuentes y diversas herramientas que entrega el readme para hacer más fácil su comprensión. 
 
 
 ## EJERCICIO 1
-Instalación del ambiente
+> Instalación del ambiente
 El presente ejercicio busca realizar la instalación del ambiente para el desarrollo del trabajo práctico. A continuación se listará una serie de aplicaciones a instalar
 
 1.	Instalar el IDE Visual Studio Code: Un IDE (Entorno de desarrollo integrado), es una aplicación que nos brinda facilidades al momento de generar código. Dentro de Pro Contacto utilizamos Visual Studio Code para los proyectos relacionados a aplicaciones web y móviles. El mismo permite trabajar con varios lenguajes tales como: HTML, CSS, C#, Javascript, APEX (NodeJS, Angular, IONIC, React, Typescript, etc).
@@ -14,7 +14,7 @@ El presente ejercicio busca realizar la instalación del ambiente para el desarr
 
 ## Ejercicio 2 
 
-Las siguientes preguntas están orientadas a la comprensión del protocolo HTTP. Son diagnósticas al lenguaje de programación, la idea es comprender los conceptos del estándar:
+> Las siguientes preguntas están orientadas a la comprensión del protocolo HTTP. Son diagnósticas al lenguaje de programación, la idea es comprender los conceptos del estándar:
 
 **1. ¿Qué es un servidor HTTP?**
 
@@ -118,7 +118,7 @@ Tip: (Marcar la opción “raw” como body)
 
 
 ## EJERCICIO 4
-Solicitar usuario de Trailhead a ariel.tarsitano@procontacto.com.mx
+> Solicitar usuario de Trailhead a ariel.tarsitano@procontacto.com.mx
 Cambiar el idioma de Trailhead a inglés.
 Realizar los siguientes módulos de Trailhead:
 
@@ -135,7 +135,7 @@ Para revisar la resolución de los módulos, compartir la URL del perfil públic
 
 
 ## EJERCICIO 5
-Explicar que son conceptualmente, qué datos almacenan en forma estándar y cómo se relacionan el resto (algunos no se relacionan entre sí) cada uno de los siguientes objetos de Salesforce:
+> Explicar que son conceptualmente, qué datos almacenan en forma estándar y cómo se relacionan el resto (algunos no se relacionan entre sí) cada uno de los siguientes objetos de Salesforce:
 
 1.	Lead
 2.	Account
@@ -170,7 +170,7 @@ https://trailhead.salesforce.com/content/learn/modules/data_modeling/schema_buil
 
 ## EJERCICIO 6
 
-Responder las siguientes preguntas brevemente sobre:
+> Responder las siguientes preguntas brevemente sobre:
 
 Soluciones de Salesforce
 
