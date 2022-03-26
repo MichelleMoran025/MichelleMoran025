@@ -22,9 +22,9 @@ Las siguientes preguntas están orientadas a la comprensión del protocolo HTTP.
 
 Estas peticiones pueden ser:
 
-•	Intercambio de datos
+- Intercambio de datos
 
-•	Mostrar contenido de la Web
+- Mostrar contenido de la Web
 
 2. ¿Qué son los verbos HTTP? Mencionar los más conocidos
 
