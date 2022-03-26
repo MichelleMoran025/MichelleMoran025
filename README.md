@@ -12,7 +12,7 @@ El presente ejercicio busca realizar la instalación del ambiente para el desarr
 2.	Instalar GIT y GIT Bash: Git es una aplicación utilizada para el control de versionado de código. En otras palabras, es una suerte de “disco” en donde se guardarán los distintos files que componen nuestra aplicación (ejemplo: index.html, estilos.css, etc). La gran ventaja de GIT es que al momento de subir una versión nueva de un archivo, genera un “backup” de la versión anterior para poder ser restaurado cuando se desee. Además, el código se encuentra en la “nube”, por lo que puede ser accedido y descargado desde cualquier lugar que tenga acceso a internet.
 
 
-Ejercicio 2 
+## Ejercicio 2 
 
 Las siguientes preguntas están orientadas a la comprensión del protocolo HTTP. Son diagnósticas al lenguaje de programación, la idea es comprender los conceptos del estándar:
 
@@ -101,7 +101,7 @@ Es un conjutno de restricciones y prinipios de la arquitectura REST. Usa caracte
 • El key content-type en un header dice al cliente que tipo de contenido será retornado.
 
 
-EJERCICIO 3
+## EJERCICIO 3
 Recomendamos previamente entender los conceptos de la sintaxis “json” antes de arrancar con los ejercicios.
 Descargar el POSTMAN (aplicación para realizar request como cliente), adjuntando un screen de resolución para cada ítem:
 
@@ -117,7 +117,7 @@ Tip: (Marcar la opción “raw” como body)
 
 
 
-EJERCICIO 4
+## EJERCICIO 4
 Solicitar usuario de Trailhead a ariel.tarsitano@procontacto.com.mx
 Cambiar el idioma de Trailhead a inglés.
 Realizar los siguientes módulos de Trailhead:
@@ -134,7 +134,7 @@ Para revisar la resolución de los módulos, compartir la URL del perfil públic
 
 
 
-EJERCICIO 5
+## EJERCICIO 5
 Explicar que son conceptualmente, qué datos almacenan en forma estándar y cómo se relacionan el resto (algunos no se relacionan entre sí) cada uno de los siguientes objetos de Salesforce:
 
 1.	Lead
@@ -168,7 +168,7 @@ https://trailhead.salesforce.com/content/learn/modules/data_modeling/schema_buil
 
 
 
-EJERCICIO 6
+## EJERCICIO 6
 
 Responder las siguientes preguntas brevemente sobre:
 
