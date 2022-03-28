@@ -176,7 +176,7 @@ https://trailhead.salesforce.com/content/learn/modules/data_modeling/schema_buil
 
 > Responder las siguientes preguntas brevemente sobre:
 
-Soluciones de Salesforce
+***Soluciones de Salesforce***
 
 **A. ¿Qué es Salesforce?**
 
@@ -198,7 +198,7 @@ Health Cloud permite una conversación personalizada entre el paciente y las ent
 
 Marketing Cloud es una plataforma de Salesforce que las pymes y grandes empresas pueden utilizar para invertir en estrategias de email marketing de nivel profesional. Las pequeñas empresas, por ejemplo, pueden conquistar nuevos clientes y asegurarse la lealtad de sus clientes actuales sin necesidad de aumentar el número de empleados para lograr esos resultados. Utiliza el software de marketing para planificar, personalizar y optimizar el recorrido de tus clientes, conociéndolos cada vez mejor, midiendo los resultados y sacándole el máximo provecho a tu presupuesto de marketing.
 
-Funcionalidades de Salesforce
+***Funcionalidades de Salesforce***
 
 **A. ¿Qué es un RecordType?**
 
