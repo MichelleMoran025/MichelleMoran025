@@ -149,8 +149,8 @@ Para revisar la resolución de los módulos, compartir la URL del perfil públic
 6.	PriceBook: *Es una lista de productos y sus precios asociados. Cada producto y su precio se denomina entrada del libro de precios. El libro de precios proporcionará una lista de los productos y los diferentes precios de los productos. Salesforce proporcionará libros de precios estándar y personalizados, lo que facilita tener múltiples precios para un producto.*
 7.	Quote: *Las cotizaciones en Salesforce representan los precios propuestos de los productos y servicios de su empresa. Usted crea una cotización a partir de una oportunidad y sus productos. Cada oportunidad puede tener varias cotizaciones asociadas y cualquiera de ellas se puede sincronizar con la oportunidad. Cuando se sincronizan un presupuesto y una oportunidad, cualquier cambio en los elementos de línea del presupuesto se sincroniza con los productos de la oportunidad y viceversa*
 8.	Asset: *Representa un artículo de valor comercial, como un producto vendido por su empresa o un competidor, que ha comprado un cliente.*
-9.	Case: **
-10.	Article: **
+9.	Case: *Un caso es una pregunta, comentario o problema de un cliente. Los agentes de soporte pueden revisar los casos para ver cómo pueden brindar un mejor servicio. Los representantes de ventas pueden usar casos para ver cómo afectan el proceso de ventas. Responder a los casos mantiene contentos a sus clientes y mejora su marca.*
+10.	Article: *Los artículos pueden incluir información sobre procesos, como cómo restablecer su producto a sus valores predeterminados o preguntas más frecuentes como cuánto almacenamiento admite su producto. Los agentes de servicio con experiencia y redactores internos escriben los artículos.*
 
 Los campos enumerarlos a través de una lista de texto en el Readme y las relaciones a través de un diagrama UML simple realizado con Drawio.
 Ejemplo de diagrama
@@ -159,12 +159,11 @@ Drawio: https://app.diagrams.net/
 Que una cuenta tiene muchos contactos se representa de la siguiente manera:
 
  
+-*Completar el resto de las relaciones agregando el resto de los objetos enumerados.*
 
-Completar el resto de las relaciones agregando el resto de los objetos enumerados.
+-*Exportar el diagrama de Drawio, subirlo al repositorio y agregarlo dentro del readme con la etiqueta para linkear imágenes.*
 
-Exportar el diagrama de Drawio, subirlo al repositorio y agregarlo dentro del readme con la etiqueta para linkear imágenes.
-
-Se puede usar el schema builder de salesforce para entender las relaciones.
+-*Se puede usar el schema builder de salesforce para entender las relaciones.*
 
 https://trailhead.salesforce.com/content/learn/modules/data_modeling/schema_builder
 
