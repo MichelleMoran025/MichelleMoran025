@@ -141,16 +141,16 @@ Para revisar la resolución de los módulos, compartir la URL del perfil públic
 ## EJERCICIO 5
 > Explicar que son conceptualmente, qué datos almacenan en forma estándar y cómo se relacionan el resto (algunos no se relacionan entre sí) cada uno de los siguientes objetos de Salesforce:
 
-1.	Lead
-2.	Account
-3.	Contact
-4.	Opportunity
-5.	Product
-6.	PriceBook
-7.	Quote
-8.	Asset
-9.	Case
-10.	Article
+1.	Lead: *El lead es un potencial cliente que demostró interés en un producto o servicio ofrecido por la marca a través de la interacción con contenidos y otros materiales. Además de ser una oportunidad de negocio, el lead es un recurso valioso en cualquier estratégia de marketing, pudiendo tornarse tanto un cliente como un abogado de la marca.*
+2.	Account: *En Salesforce, almacena la información sobre sus clientes mediante cuentas y contactos. Las cuentas son compañías con las que hace negocios y los contactos son las personas que trabajan para dichas compañías.*
+3.	Contact: *Los contactos se asocian habitualmente con una cuenta, pero también se pueden asociar con otros registros como oportunidades.*
+4.	Opportunity: *Las oportunidades son acuerdos en curso Los registros de oportunidad realizan un seguimiento de detalles acerca de acuerdos, incluyendo para qué cuentas son, quiénes son las personas implicadas y las cantidades de las ventas potenciales.*
+5.	Product: *Productos son los elementos y servicios que distribuye a clientes. Cada producto puede existir en múltiples listas de precios con precios diferentes.*
+6.	PriceBook: *Es una lista de productos y sus precios asociados. Cada producto y su precio se denomina entrada del libro de precios. El libro de precios proporcionará una lista de los productos y los diferentes precios de los productos. Salesforce proporcionará libros de precios estándar y personalizados, lo que facilita tener múltiples precios para un producto.*
+7.	Quote: *Las cotizaciones en Salesforce representan los precios propuestos de los productos y servicios de su empresa. Usted crea una cotización a partir de una oportunidad y sus productos. Cada oportunidad puede tener varias cotizaciones asociadas y cualquiera de ellas se puede sincronizar con la oportunidad. Cuando se sincronizan un presupuesto y una oportunidad, cualquier cambio en los elementos de línea del presupuesto se sincroniza con los productos de la oportunidad y viceversa*
+8.	Asset: *Representa un artículo de valor comercial, como un producto vendido por su empresa o un competidor, que ha comprado un cliente.*
+9.	Case: **
+10.	Article: **
 
 Los campos enumerarlos a través de una lista de texto en el Readme y las relaciones a través de un diagrama UML simple realizado con Drawio.
 Ejemplo de diagrama
