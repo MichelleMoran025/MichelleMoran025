@@ -156,7 +156,7 @@ Los campos enumerarlos a través de una lista de texto en el Readme y las relaci
 Ejemplo de diagrama
 Drawio: https://app.diagrams.net/
 
-Que una cuenta tiene muchos contactos se representa de la siguiente manera:
+#Que una cuenta tiene muchos contactos se representa de la siguiente manera:
 
  
 -*Completar el resto de las relaciones agregando el resto de los objetos enumerados.*
